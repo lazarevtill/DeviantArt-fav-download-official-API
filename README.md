@@ -116,4 +116,4 @@ This is a personal tool, but feel free to fork and adapt for your needs!
 
 ## 📄 License
 
-MIT License - Feel free to use and modify as needed. 
+Apache-2.0 license - Feel free to use and modify as needed. 
